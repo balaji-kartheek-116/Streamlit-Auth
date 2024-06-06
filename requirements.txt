@@ -1,0 +1,5 @@
+streamlit
+streamlit-authenticator
+
+# pip install streamlit-authenticator
+# pip install --upgrade bcrypt==4.1.1
